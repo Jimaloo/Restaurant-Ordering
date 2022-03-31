@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
-import dev.jimmy.restaurant_ordering.presentation.fragments.databinding.FragmentNotificationsBinding
+import dev.jimmy.restaurant_ordering.databinding.FragmentNotificationsBinding
 
 class NotificationsFragment : Fragment() {
 
