@@ -24,3 +24,5 @@ Writing a food ordering App using [Android Clean Architecture](https://developer
 ### Screenshots
 
 I'll add some screenshots once the UI is complete
+
+<img src="https://github.com/Jimaloo/Restaurant-Ordering/blob/master/screenshots/homepage.png" width="270"/> <img src="https://github.com/Jimaloo/Restaurant-Ordering/blob/master/screenshots/cart.png" width="270"/>
